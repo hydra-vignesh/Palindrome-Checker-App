@@ -1,4 +1,4 @@
-public class uc1 {
+public class PalindromeCheckerApp {
 
     public static void main(String[] args) {
 
